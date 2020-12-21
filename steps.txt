@@ -1,0 +1,5 @@
+1. git clone <repo-url>
+
+2. git status 
+
+3. 
